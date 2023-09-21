@@ -1,4 +1,4 @@
-<h1>👋 Hi Human</h1>
+<h1 align="center">👋 Hi Human</h1>
 <div align="center">
 
  📃 Holder of a **bac+2** Web Developer at **OpenClassrooms**
