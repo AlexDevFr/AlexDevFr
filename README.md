@@ -3,7 +3,7 @@
 
  📃 Holder of a **bac+2** Web Developer at **OpenClassrooms**
 
- 🔭 I’m on this project **outils-du-web.fr**
+ 🔭 I’m on this project **ordinosaure.shop**
 
  ⚡ Fun fact **💍The Lord of the Rings is the best universe.**
  
